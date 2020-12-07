@@ -1,0 +1,9 @@
+C:\Users\Xiaomi\source\repos\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+C:\Users\Xiaomi\source\repos\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\Xiaomi\source\repos\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\Xiaomi\source\repos\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\Xiaomi\source\repos\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Xiaomi\source\repos\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Xiaomi\source\repos\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\Xiaomi\source\repos\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb
